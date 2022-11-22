@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+    bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
     weatherKey: 'e3a325e92f1a56bf00e8a31812804ca8', // Write here your API Key
@@ -199,8 +199,8 @@ const CONFIG = {
 					link: 'https://www.hashnode.com',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Notion',
+					link: 'https://www.notion.com',
 				},
 			],
 		},
