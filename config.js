@@ -116,9 +116,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
+			name: 'Notion',
 			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			link: 'https://notion.com/',
 		},
 		{
 			id: '6',
