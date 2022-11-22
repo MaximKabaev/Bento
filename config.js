@@ -63,26 +63,26 @@ const CONFIG = {
 			icon: 'mail',
 			link: 'https://gmail.com/',
 		},
-//		{
-//			id: '3',
-//			name: 'Notion',
-//            icon: 'sticky-note', //trello
-//			link: 'https://notion.com',
-//		},
 		{
 			id: '3',
+			name: 'Netflix',
+            icon: 'tv', //trello
+			link: 'https://netflix.com',
+		},
+		{
+			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '4',
+			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
-			id: '5',
+			id: '6',
             name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
@@ -96,32 +96,32 @@ const CONFIG = {
 			icon: 'headphones',
 			link: 'https://open.spotify.com',
 		},
-//		{
-//			id: '2',
-//			name: 'twitter',
-//			icon: 'twitter',
-//			link: 'https://twitter.com/',
-//		},
 		{
 			id: '2',
+			name: 'twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
+		},
+		{
+			id: '3',
 			name: 'bot',
 			icon: 'bot',
 			link: 'https://discord.com/app',
 		},
 		{
-			id: '3',
+			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
 			link: 'https://amazon.com/',
 		},
 		{
-			id: '4',
+			id: '5',
 			name: 'Notion',
 			icon: 'pen-tool',
 			link: 'https://notion.com/',
 		},
 		{
-			id: '5',
+			id: '6',
 			name: 'Figma',
 			icon: 'figma',
 			link: 'https://figma.com/',
