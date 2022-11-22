@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Netflix',
-            icon: 'tv', //trello
-			link: 'https://netflix.com',
+			name: 'ActiveLearn',
+            icon: 'book', //trello
+            link: 'https://www.pearsonactivelearn.com/app/library',
 		},
 		{
 			id: '4',
