@@ -63,29 +63,29 @@ const CONFIG = {
 			icon: 'mail',
 			link: 'https://gmail.com/',
 		},
+//		{
+//			id: '3',
+//			name: 'Notion',
+//            icon: 'sticky-note', //trello
+//			link: 'https://notion.com',
+//		},
 		{
 			id: '3',
-			name: 'Notion',
-            icon: 'sticky-note', //trello
-			link: 'https://notion.com',
-		},
-		{
-			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '5',
+			id: '4',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
-			id: '6',
-			name: 'Odysee',
+			id: '5',
+            name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
