@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'HackerRank',
+			icon: 'swords',
+            link: 'https://www.hackerrank.com/dashboard',
 		},
 		{
 			id: '6',
